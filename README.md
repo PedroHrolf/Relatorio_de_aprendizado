@@ -4,8 +4,8 @@ DIO - Bootcamp: Nexa - Engenharia de Prompts na AWS com Claude
 Curso: 	Criando um Assistente de Delivery com AWS Step Functions e Bedrock
 
   Durante o curso "Criando um Assistente de Delivery com AWS Step Functions e Bedrock" tive a oportunidade de explorar várias ferramentas da AWS,
-destacando-se a Step Functions como a principal. A AWS Step Functions é uma ferramenta poderosa para a automatização de fluxos de trabalho,
-conectando e automatizando diversos serviços e processos. Com um painel dinâmico chamado Workflow, você pode montar, modificar, executar e inspecionar
+destacando-se a Step Functions como a principal, a AWS Step Functions é uma ferramenta poderosa para a automatização de fluxos de trabalho,
+conectando e automatizando diversos serviços e processos, com um painel dinâmico chamado Workflow, você pode montar, modificar, executar e inspecionar
 um fluxo de processos utilizando a Amazon States Language (ASL), a ferramenta permite a edição de código do workflow, gerando um código em formato JSON
 que representa os processos e funções atribuídos ao projeto, formando as definições de máquinas de estado.
 	
